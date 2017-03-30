@@ -1,0 +1,14 @@
+accounts
+carts
+db.sqlite3  
+fournisseur  
+orders    
+register_activate  
+static_and_media
+camershopping  
+communication  
+env        
+manage.py    
+products  
+simpleorder        
+templates
